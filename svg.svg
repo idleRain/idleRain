@@ -88,6 +88,6 @@
     <animate attributeName="opacity" values="0.15;0.5;0.15" dur="3s" repeatCount="indefinite"/>
   </rect>
 
-  <text x="42" y="20" font-size="12" font-family="monospace" fill="#00f0ff" opacity="0.35">SYS://ONLINE</text>
-  <text x="878" y="20" font-size="12" font-family="monospace" fill="#ff00e5" opacity="0.35">Vivo $50 eat KFC</text>
+  <text x="45" y="21" font-size="14" font-family="monospace" fill="#00f0ff" opacity="0.35">SYS://ONLINE</text>
+  <text x="790" y="21" font-size="14" font-family="monospace" fill="#ff00e5" opacity="0.35">Vivo $50 eat KFC</text>
 </svg>
